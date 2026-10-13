@@ -1,0 +1,6 @@
+{
+  "name": "Memo Master",
+  "description": "A premium cognitive memory match game featuring five rich game modes, adaptive difficulty levels, sound effects, stats tracking, and customizable card decks.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
